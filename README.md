@@ -20,7 +20,7 @@ Single Python file, built for Termux (no root), works anywhere with Python 3.8+.
 ~~~bash
 pkg update -y && pkg install -y python git
 pip install rich
-git clone https://github.com/yourname/chronocert.git
+git clone https://github.com/chrono200/chronocert.git
 cd chronocert
 python chronocert.py
 ~~~
